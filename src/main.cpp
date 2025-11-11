@@ -9,6 +9,7 @@
 #include "player.h"
 
 // ingore this comment, only for delivery test
+// second line for test
 
 int main() {
     std::srand(std::time(0));
