@@ -8,6 +8,8 @@
 #include "game.h"
 #include "player.h"
 
+// ingore this comment, only for delivery test
+
 int main() {
     std::srand(std::time(0));
 
